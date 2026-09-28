@@ -1,0 +1,50 @@
+{
+  "fullName": "Divyani Nema",
+  "full_name": "Divyani Nema",
+  "name": "Divyani Nema",
+  "branch": "Mathematics & Computing",
+  "degree": "B.Tech",
+  "currentSemester": 5,
+  "current_semester": 5,
+  "cgpa": 6.8,
+  "skills": [
+    "Python",
+    "SQL",
+    "HTML",
+    "CSS"
+  ],
+  "preferredRoles": [
+    "Data Scientist"
+  ],
+  "preferred_roles": [
+    "Data Scientist"
+  ],
+  "id": "6ab837592a8411481e665f77",
+  "college": "Madhav Institute Of Technology & Science, Gwalior",
+  "university": "Deemed University",
+  "course": "Computer Science",
+  "yearOfStudy": 1,
+  "year_of_study": 1,
+  "graduationYear": 2028,
+  "graduation_year": 2028,
+  "targetCgpa": 7.5,
+  "target_cgpa": 7.5,
+  "achievements": [],
+  "projects": [],
+  "certifications": [],
+  "codingProfiles": {},
+  "coding_profiles": {},
+  "dreamCompanies": [
+    "Deloitte"
+  ],
+  "dream_companies": [
+    "Deloitte"
+  ],
+  "careerInterests": [
+    "Data Science"
+  ],
+  "career_interests": [
+    "Data Science"
+  ],
+  "state": "Madhya Pradesh"
+}
